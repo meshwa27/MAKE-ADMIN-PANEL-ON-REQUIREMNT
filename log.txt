@@ -1,2 +1,4 @@
-2025-01-16T19:10:40.980Z - GET /heroes - ::ffff:127.0.0.1
-2025-01-16T19:11:41.840Z - POST /add/hero - ::ffff:127.0.0.1
+2025-01-21T14:35:55.260Z - GET /heroes - ::ffff:127.0.0.1
+2025-01-21T14:36:33.961Z - POST /add/hero - ::ffff:127.0.0.1
+2025-01-21T14:37:17.839Z - PATCH /update/villain/10 - ::ffff:127.0.0.1
+2025-01-21T14:37:47.691Z - DELETE /delete/hero/10 - ::ffff:127.0.0.1
